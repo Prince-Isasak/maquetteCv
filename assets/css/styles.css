@@ -1,0 +1,405 @@
+
+
+/*NAV-BAR*/
+
+
+.navbar
+{
+    background-color: crimson;
+    padding: 15px 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.navbar-nav
+{
+    margin-left: auto;
+}
+.navbar-nav .nav-link
+{
+    color: #fff;
+}
+.color-lio
+{
+    color: red;
+    font-size: 30px;
+     font-family: sans-serif;
+}
+.color-port
+{
+    color: #fff;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+/*SECTION*/
+
+section
+{
+    
+    padding: 100px 0px;
+}
+
+.home
+{
+    display: flex;
+    height: 100vh;
+    color: rgb(255, 255, 255);
+    min-height: 500px;
+    font-family: ubuntu, sans-serif;
+    background: url(../images/banner.jpg) no-repeat center;
+}
+.title-home
+{
+    margin-left: 30px;
+}
+.titre-h1
+{
+    font-size: 65px;
+    font-weight: bold;
+}
+.titre-h2
+{
+    font-size: 40px;
+    font-weight: bold;
+}
+.titre-h3
+{
+    font-size: 27px;
+}
+.typing
+{
+    color: crimson;
+    font-weight: bold;
+}
+.lien-home
+{
+    display: inline-block;
+    color: #fff;
+    font-size: 25px;
+    margin-top: 20px;
+    font-weight: bold;
+    background: crimson;
+    padding: 10px 35px;
+    text-decoration: none;
+    border-radius: 5px;
+    border-color: crimson;
+    
+}
+
+
+/*SECTION ABOUT*/
+
+.title-about
+{
+    
+}
+.titre-h4
+{
+    font-size: 40px;
+    text-align: center;
+}
+.who
+{
+    color: crimson;
+    font-size: 15px;
+    font-weight: bold;
+    width: 14%;
+    text-align: center;
+    border-bottom: 3px solid black;
+    line-height: 0.1em;
+    margin: 10px 0px 20px;
+    
+}
+.who span
+{
+    background-color: #fff;
+    padding: 0 10px;
+    
+}
+.img-row
+{
+    height: 400px;
+    width: 400px;
+    border-radius: 6px;
+    margin-left: 30px;
+}
+.titre-h5
+{
+    font-size: 27px;
+    text-align: left;
+}
+.typing-2
+{
+    color: crimson;
+    font-weight: bold;
+}
+.my-col7
+{
+    margin-top: 50px;
+}
+.p-h5
+{
+    font-size: 20px;
+    color:black;
+}
+.my-button
+{
+    color: #fff;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 13px 30px;
+    background-color: crimson;
+    border: 1px solid red;
+}
+.my-button:hover
+{
+    color: crimson;
+    background-color: #fff;
+    border: 2px solid red;
+    
+}
+
+/*SECTION FORMATION*/
+
+
+.formation
+{
+     background-color: black;
+}
+.title-formation
+{
+   
+}
+.titre-h4-form
+{
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+}
+.who-f
+{
+    color: crimson;
+    font-size: 15px;
+    font-weight: bold;
+    width: 14%;
+    text-align: center;
+    border-bottom: 3px solid white;
+    line-height: 0.1em;
+    margin: 10px 0px 20px;
+    
+}
+.who-f span
+{
+    background-color: black;
+    padding: 0 10px;
+    
+}
+.mycol1
+{
+    color: white;
+    background-color: #222;;
+    text-align: center;
+    padding: 60px 0px;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+.mycol2
+{
+    color: white;
+    background-color: #222;
+    text-align: center;
+    padding: 60px 0px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.mycol3
+{
+    color: white;
+    background-color: #222;
+    text-align: center;
+    padding: 60px 0px;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.myhover:hover
+{
+    background-color: crimson;
+    transition: all .3s ease;
+}
+
+.col-h6
+{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.p-6
+{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+/*couleurs icon et survole*/
+.col-icon
+{
+    color: crimson;
+}
+.col-icon:hover
+{
+    color: #fff;
+}
+
+/*SKILLS*/
+
+.title-about
+{
+    
+}
+.titre-h4
+{
+    font-size: 40px;
+    text-align: center;
+}
+.who
+{
+    color: crimson;
+    font-size: 15px;
+    font-weight: bold;
+    width: 14%;
+    text-align: center;
+    border-bottom: 3px solid black;
+    line-height: 0.1em;
+    margin: 10px 0px 20px;
+    
+}
+.who span
+{
+    background-color: #fff;
+    padding: 0 10px;
+    
+}
+.titre-h5-sk
+{
+    font-size: 20px;
+    text-align: left;
+}
+.my-col6-2
+{
+    
+}
+.p-h5
+{
+    font-size: 17px;
+    color:black;
+}
+.my-button
+{
+    color: #fff;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 13px 30px;
+    background-color: crimson;
+    border: 1px solid red;
+}
+.my-button:hover
+{
+    color: crimson;
+    background-color: #fff;
+    border: 2px solid red;
+    
+}
+/*PROGRESS BAR*/
+
+.row-center
+{
+    margin-top: 30px;
+}
+.my-col6-1
+{
+    padding-left: 50px;
+}
+.my-col6-2
+{
+    padding-right: 50px;
+}
+.span1
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.span2
+{
+    float: right;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.myprogress
+{
+    background-color: crimson;
+}
+
+/*PROJECT*/
+
+.img-proj
+{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    border: 5px solid crimson;
+    transition: all .3s ease;
+}
+
+
+
+
+/*FOOTER*/
+
+
+footer 
+{
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+}
+.a-footer
+{
+    color: crimson;
+}
+.entete
+{
+    font-weight: bold;
+}
+.sub-title
+{
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.mail
+{
+    text-decoration: none;
+    font-size: 17px;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
